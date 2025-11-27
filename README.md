@@ -1,0 +1,2 @@
+# Applied-Macine-Learning---Classification-Clustering-Regression
+The project is divided into three parts Classification, Clustering &amp; Regression, with each part having its own separate dataset. In classification, the main goal is to predict if the annual income of a person is greater or lower than 50k. The clustering part is related to market segmentation and regression which tries to predict house sales prices.
