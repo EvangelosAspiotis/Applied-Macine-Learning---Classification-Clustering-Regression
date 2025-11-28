@@ -98,7 +98,7 @@ learning.
 ------------------------------------------------------------------------
 
 
-# 🛠 How to Run
+#  How to Run
 
 ``` bash
 git clone https://github.com/EvangelosAspiotis/Applied-Macine-Learning---Classification-Clustering-Regression.git
